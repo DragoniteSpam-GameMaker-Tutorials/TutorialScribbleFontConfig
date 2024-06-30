@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Scribble_Config_Stuff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Scribble_Config_Stuff",
+  "parent":{
+    "name":"TutorialScribbleFontConfig",
+    "path":"TutorialScribbleFontConfig.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -18,6 +18,9 @@
     {"name":"Superfonts","order":9,"path":"folders/Scribble/Superfonts.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"fnt_game_bold_italic","order":12,"path":"fonts/fnt_game_bold_italic/fnt_game_bold_italic.yy",},
+    {"name":"fnt_game_bold","order":10,"path":"fonts/fnt_game_bold/fnt_game_bold.yy",},
+    {"name":"fnt_game_italic","order":11,"path":"fonts/fnt_game_italic/fnt_game_italic.yy",},
     {"name":"fnt_game","order":6,"path":"fonts/fnt_game/fnt_game.yy",},
     {"name":"scribble_fallback_font","order":12,"path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},
     {"name":"obj_flower_rafflesia","order":1,"path":"objects/obj_flower_rafflesia/obj_flower_rafflesia.yy",},
@@ -73,6 +76,7 @@
     {"name":"scribble_anim_wheel","order":8,"path":"scripts/scribble_anim_wheel/scribble_anim_wheel.yy",},
     {"name":"scribble_anim_wobble","order":9,"path":"scripts/scribble_anim_wobble/scribble_anim_wobble.yy",},
     {"name":"scribble_color_set","order":1,"path":"scripts/scribble_color_set/scribble_color_set.yy",},
+    {"name":"Scribble_Config_Stuff","order":9,"path":"scripts/Scribble_Config_Stuff/Scribble_Config_Stuff.yy",},
     {"name":"scribble_external_sound_exists","order":1,"path":"scripts/scribble_external_sound_exists/scribble_external_sound_exists.yy",},
     {"name":"scribble_external_sound_remove","order":2,"path":"scripts/scribble_external_sound_remove/scribble_external_sound_remove.yy",},
     {"name":"scribble_flush_everything","order":1,"path":"scripts/scribble_flush_everything/scribble_flush_everything.yy",},

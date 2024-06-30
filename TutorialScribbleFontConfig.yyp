@@ -30,7 +30,6 @@
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"scribble_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"scribble_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"scribble_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"scribble_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -39,6 +38,9 @@
   },
   "name":"TutorialScribbleFontConfig",
   "resources":[
+    {"id":{"name":"fnt_game_bold_italic","path":"fonts/fnt_game_bold_italic/fnt_game_bold_italic.yy",},},
+    {"id":{"name":"fnt_game_bold","path":"fonts/fnt_game_bold/fnt_game_bold.yy",},},
+    {"id":{"name":"fnt_game_italic","path":"fonts/fnt_game_italic/fnt_game_italic.yy",},},
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},},
     {"id":{"name":"scribble_fallback_font","path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},},
     {"id":{"name":"obj_flower_lotus","path":"objects/obj_flower_lotus/obj_flower_lotus.yy",},},
@@ -103,6 +105,7 @@
     {"id":{"name":"scribble_anim_wobble","path":"scripts/scribble_anim_wobble/scribble_anim_wobble.yy",},},
     {"id":{"name":"scribble_color_get","path":"scripts/scribble_color_get/scribble_color_get.yy",},},
     {"id":{"name":"scribble_color_set","path":"scripts/scribble_color_set/scribble_color_set.yy",},},
+    {"id":{"name":"Scribble_Config_Stuff","path":"scripts/Scribble_Config_Stuff/Scribble_Config_Stuff.yy",},},
     {"id":{"name":"scribble_external_sound_add","path":"scripts/scribble_external_sound_add/scribble_external_sound_add.yy",},},
     {"id":{"name":"scribble_external_sound_exists","path":"scripts/scribble_external_sound_exists/scribble_external_sound_exists.yy",},},
     {"id":{"name":"scribble_external_sound_remove","path":"scripts/scribble_external_sound_remove/scribble_external_sound_remove.yy",},},
